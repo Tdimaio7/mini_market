@@ -1,0 +1,22 @@
+[
+  { "id": "p1", "name": "Guantes GN102", "price": 59.9, "isAvailable": true, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN102" },
+  { "id": "p2", "name": "Casco CS433", "price": 79.9, "isAvailable": false, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS433" },
+  { "id": "p3", "name": "Bolsa AC990", "price": 24.5, "isAvailable": true, "category": "bag", "image": "https://via.placeholder.com/200?text=Bolsa+AC990" },
+  { "id": "p4", "name": "Guantes GN103", "price": 49.5, "isAvailable": true, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN103" },
+  { "id": "p5", "name": "Casco CS434", "price": 85.0, "isAvailable": true, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS434" },
+  { "id": "p6", "name": "Bolsa AC991", "price": 29.9, "isAvailable": false, "category": "bag", "image": "https://via.placeholder.com/200?text=Bolsa+AC991" },
+  { "id": "p7", "name": "Guantes GN104", "price": 39.9, "isAvailable": true, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN104" },
+  { "id": "p8", "name": "Casco CS435", "price": 90.0, "isAvailable": true, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS435" },
+  { "id": "p9", "name": "Bolsa AC992", "price": 19.9, "isAvailable": true, "category": "bag", "image": "https://via.placeholder.com/200?text=Bolsa+AC992" },
+  { "id": "p10", "name": "Guantes GN105", "price": 59.0, "isAvailable": false, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN105" },
+  { "id": "p11", "name": "Casco CS436", "price": 72.5, "isAvailable": true, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS436" },
+  { "id": "p12", "name": "Bolsa AC993", "price": 34.5, "isAvailable": true, "category": "bag", "image": "https://via.placeholder.com/200?text=Bolsa+AC993" },
+  { "id": "p13", "name": "Guantes GN106", "price": 45.0, "isAvailable": true, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN106" },
+  { "id": "p14", "name": "Casco CS437", "price": 78.0, "isAvailable": false, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS437" },
+  { "id": "p15", "name": "Bolsa AC994", "price": 22.0, "isAvailable": true, "category": "bag", "image": "https://via.placeholder.com/200?text=Bolsa+AC994" },
+  { "id": "p16", "name": "Guantes GN107", "price": 50.0, "isAvailable": true, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN107" },
+  { "id": "p17", "name": "Casco CS438", "price": 88.0, "isAvailable": true, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS438" },
+  { "id": "p18", "name": "Bolsa AC995", "price": 26.0, "isAvailable": false, "category": "bag", "image": "https://via.placeholder.com/200?text=Bolsa+AC995" },
+  { "id": "p19", "name": "Guantes GN108", "price": 55.0, "isAvailable": true, "category": "gloves", "image": "https://via.placeholder.com/200?text=Guantes+GN108" },
+  { "id": "p20", "name": "Casco CS439", "price": 82.0, "isAvailable": true, "category": "headgear", "image": "https://via.placeholder.com/200?text=Casco+CS439" }
+]
